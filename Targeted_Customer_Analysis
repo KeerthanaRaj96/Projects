@@ -1,0 +1,38 @@
+Targeted Customer Analysis
+
+This repository contains the code and datasets used for analyzing mall customer demographics and segmenting them into meaningful groups based on spending behavior. The project demonstrates practical skills in exploratory data analysis (EDA), clustering, visualization, and customer segmentation.
+
+
+Contents
+
+Mall_Customers.csv – Dataset used for analysis
+Analysis Script (R/Python) – Code for data cleaning, EDA, clustering
+Visualizations – Plots showing clusters and insights
+Report / Summary – Key findings from the segmentation
+Supporting Files – Any additional scripts or notes
+
+
+Project Summary
+
+The project performs customer segmentation using demographic and spending data.
+Key steps include:
+Data cleaning & preprocessing
+Exploratory data analysis
+Applying K-Means clustering
+Visualizing customer groups
+Interpreting segments for targeted marketing
+
+
+Objective
+
+To identify customer groups based on:
+Annual income
+Spending score
+Age and gender patterns
+
+
+Techniques Used
+
+K-Means Clustering
+Scatter Plots & Pairwise Visualizations
+Basic statistical summaries
