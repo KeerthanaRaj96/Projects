@@ -16,7 +16,7 @@ Data & Logic: Recipe selection based on ingredients + constraints
 Software Eng: Agile approach, system design diagrams, test cases
 
 
-Repository Contents
+Contents
 
 Final project report (PDF)
 IEEE publication presentation certificate
