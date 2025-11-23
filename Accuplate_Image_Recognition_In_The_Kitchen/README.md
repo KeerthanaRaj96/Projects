@@ -9,7 +9,10 @@ Upload a food / ingredient image → detect ingredients automatically
 Generate recipe recommendations based on detected items
 Support for allergies and dietary preferences (e.g., no tomato)
 User login, basic profile, and personalized suggestions
+
+
 Tech & Skills
+
 AI/ML: YOLOv5, CNN concepts, image preprocessing
 Backend: Flask, REST-style routes, file upload handling
 Data & Logic: Recipe selection based on ingredients + constraints
