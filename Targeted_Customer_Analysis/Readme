@@ -2,6 +2,11 @@ Targeted Customer Analysis
 
 This repository contains the code and datasets used for analyzing mall customer demographics and segmenting them into meaningful groups based on spending behavior. The project demonstrates practical skills in exploratory data analysis (EDA), clustering, visualization, and customer segmentation.
 
+Project Context
+
+This project is based on a publicly available customer segmentation notebook used as a learning resource. I used the original implementation to understand how k-means clustering, PCA, and clustering evaluation techniques are applied in practice.
+
+I made minor modifications and parameter adjustments to explore how changes affected clustering quality and interpretation. The outputs included here reflect the results of these adaptations and my understanding of the techniques.
 
 Contents
 
